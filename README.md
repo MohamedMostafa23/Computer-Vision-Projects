@@ -1,1 +1,1 @@
-# Computer-Vision-Projects Is here :chicken:
+# Computer-Vision-Projects are here :chicken:
